@@ -1,0 +1,14 @@
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\bin\Debug\netcoreapp2.1\Scripts\Hello.csx
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\bin\Debug\netcoreapp2.1\Zork.json
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\bin\Debug\netcoreapp2.1\14_CommandScripting.deps.json
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\bin\Debug\netcoreapp2.1\14_CommandScripting.runtimeconfig.json
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\bin\Debug\netcoreapp2.1\14_CommandScripting.runtimeconfig.dev.json
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\bin\Debug\netcoreapp2.1\14_CommandScripting.dll
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\bin\Debug\netcoreapp2.1\14_CommandScripting.pdb
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\obj\Debug\netcoreapp2.1\14_CommandScripting.csprojAssemblyReference.cache
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\obj\Debug\netcoreapp2.1\14_CommandScripting.AssemblyInfoInputs.cache
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\obj\Debug\netcoreapp2.1\14_CommandScripting.AssemblyInfo.cs
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\obj\Debug\netcoreapp2.1\14_CommandScripting.csproj.CoreCompileInputs.cache
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\obj\Debug\netcoreapp2.1\14_CommandScripting.dll
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\obj\Debug\netcoreapp2.1\14_CommandScripting.pdb
+C:\Users\batsu\OneDrive\Desktop\ZorkProgression\14_CommandScripting\obj\Debug\netcoreapp2.1\14_CommandScripting.genruntimeconfig.cache

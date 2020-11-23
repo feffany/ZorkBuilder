@@ -1,0 +1,15 @@
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\bin\Debug\Zork.Builder.WinForms.exe.config
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\bin\Debug\Zork.Builder.WinForms.exe
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\bin\Debug\Zork.Builder.WinForms.pdb
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\bin\Debug\Zork.Common.dll
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\bin\Debug\Zork.Common.pdb
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\obj\Debug\Zork.Builder.WinForms.csprojAssemblyReference.cache
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\obj\Debug\Zork.Builder.WinForms.mainForm.resources
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\obj\Debug\Zork.Builder.WinForms.Properties.Resources.resources
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\obj\Debug\Zork.Builder.WinForms.csproj.GenerateResource.cache
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\obj\Debug\Zork.Builder.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\obj\Debug\Zork.Builder.WinForms.csproj.CopyComplete
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\obj\Debug\Zork.Builder.WinForms.exe
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\obj\Debug\Zork.Builder.WinForms.pdb
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\batsu\OneDrive\Documents\GitHub\ZorkBuilder\ZorkProgression\Zork.Builder.WinForms\bin\Debug\Newtonsoft.Json.xml
